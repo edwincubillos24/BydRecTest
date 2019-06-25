@@ -8,4 +8,5 @@
     <dimen name="margin_card_view">5dp</dimen>
     <dimen name="textTeamSize">16sp</dimen>
     <dimen name="textScoreSize">20sp</dimen>
+    <dimen name="text_header_size">25sp</dimen>
 </resources>
