@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BydRecTest</string>
+    <string name="tab_text_1">FIXTURES</string>
+    <string name="tab_text_2">RESULTS</string>
+</resources>
